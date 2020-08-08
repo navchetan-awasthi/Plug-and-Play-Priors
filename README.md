@@ -18,4 +18,4 @@ Matlab Codes: (requires SALSA_v2.0)
 #Supplementary file for perform_tv_denoising : compute_total_variation.m
 
 #Matlab Implementation of Lanczos Tikhonov Heuristic and BPD_LSQR methods:demo_bpd_lsqr_40.m
-# Supplementary files required :  bpd_lsqr.m , bpd_salsa_sparsemtx.m , lsqr_b_hybrid.m , pythag.m  , soft.m
+*** Supplementary files required :  bpd_lsqr.m , bpd_salsa_sparsemtx.m , lsqr_b_hybrid.m , pythag.m  , soft.m
