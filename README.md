@@ -2,7 +2,7 @@
 
 This MATLAB code was used as part of the work presented in
 
-Navchetan Awasthi, Sandeep Kumar Kalva, Manojit Pramanik, Phaneendra K. Yalavarthy, “Dimensionality Reduced Plug and Play Priors for Improving Limited data Photoacoustic Tomography,”(Under Review in IEEE Journal of Selected topics in Quantum Electronics)
+Navchetan Awasthi, Sandeep Kumar Kalva, Manojit Pramanik, Phaneendra K. Yalavarthy, “Dimensionality Reduced Plug and Play Priors for Improving Limited data Photoacoustic Tomography,”(Under Review in Biomedical Optics Express)
 
 **The raw measurement data for the experimental experiments is not provided and can be requested.
 ***Please contact if you find any mistakes or if you need any help regarding the codes.
